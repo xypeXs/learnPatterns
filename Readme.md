@@ -50,5 +50,6 @@
 * [**Наблюдатель**](./src/main/java/ru/learn/patterns/observer/Readme.md) 
 * [**Декоратор**](./src/main/java/ru/learn/patterns/decorator/Readme.md) 
 * [**Фабрика**](./src/main/java/ru/learn/patterns/factory/Readme.md) 
+* [**Singleton**](./src/main/java/ru/learn/patterns/singleton/Readme.md) 
 
     
