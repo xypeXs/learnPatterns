@@ -52,5 +52,6 @@
 * [**Фабрика**](./src/main/java/ru/learn/patterns/factory/Readme.md) 
 * [**Singleton**](./src/main/java/ru/learn/patterns/singleton/Readme.md) 
 * [**Команда**](./src/main/java/ru/learn/patterns/command/Readme.md) 
+* [**Адаптер**](./src/main/java/ru/learn/patterns/adapter/Readme.md) 
 
     
