@@ -1,4 +1,4 @@
-package ru.learn.patterns.collections.iterator;
+package ru.learn.patterns.iterator;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

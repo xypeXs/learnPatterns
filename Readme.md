@@ -99,6 +99,6 @@
 * [**Адаптер**](./src/main/java/ru/learn/patterns/adapter/Readme.md) 
 * [**Фасад**](./src/main/java/ru/learn/patterns/facade/Readme.md) 
 * [**Шаблонный метод**](./src/main/java/ru/learn/patterns/templatemethod/Readme.md) 
-* [**Итератор**](./src/main/java/ru/learn/patterns/collections/iterator/Readme.md) 
+* [**Итератор**](./src/main/java/ru/learn/patterns/iterator/Readme.md) 
 
     
