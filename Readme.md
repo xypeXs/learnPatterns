@@ -101,5 +101,6 @@
 * [**Шаблонный метод**](./src/main/java/ru/learn/patterns/templatemethod/Readme.md) 
 * [**Итератор**](./src/main/java/ru/learn/patterns/iterator/Readme.md) 
 * [**Компоновщик**](./src/main/java/ru/learn/patterns/composite/Readme.md)
+* [**Состояние**](./src/main/java/ru/learn/patterns/state/Readme.md)
 
     
