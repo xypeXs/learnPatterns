@@ -102,5 +102,6 @@
 * [**Итератор**](./src/main/java/ru/learn/patterns/iterator/Readme.md) 
 * [**Компоновщик**](./src/main/java/ru/learn/patterns/composite/Readme.md)
 * [**Состояние**](./src/main/java/ru/learn/patterns/state/Readme.md)
+* [**Заместитель**](./src/main/java/ru/learn/patterns/proxy/Readme.md)
 
     
